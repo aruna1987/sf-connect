@@ -1,14 +1,22 @@
 {
   "name": "sf-connect",
   "version": "1.0.0",
-  "description": "webhook for sf connect",
+  "description": "connect google home",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aruna1987/sf-connect.git"
+  },
   "keywords": [
-    "example-heroku"
+    "dialogflow"
   ],
-  "author": "Aruna Palanisamy",
-  "license": "ISC"
+  "author": "SAV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruna1987/sf-connect/issues"
+  },
+  "homepage": "https://github.com/aruna1987/sf-connect#readme"
 }
